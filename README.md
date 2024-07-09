@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m Zohaib Hashmi
-- 👀 I’m interested in working with raw data and visualizing insights through graphs and charts
+- 👀 I like to make it easy for users to understand raw data using statistical techniques and visualizations
 - 🌱 I’m currently learning advanced data analysis techniques and machine learning
 - 💞️ I’m looking to collaborate on data-driven projects and visual analytics
 - 📫 How to reach me: zohaib8989@gmail.com
